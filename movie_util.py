@@ -1,13 +1,10 @@
-from credentials import key #API Key for The Movie Database
-#https://www.themoviedb.org/documentation/api
 import json
 import requests
 import re
 from unidecode import unidecode
 from bs4 import BeautifulSoup
+import pickle
 
-def search(query, key = key):
-    URL = "https://api.themoviedb.org/3/search/company?api_key=" + key + "&query=" + query + "&page=1"
 
 def filter_func(string):
     string = re.sub(r' \(\d\d\d\d\)', '', string)
@@ -23,3 +20,7 @@ for movie_list in movies:
     movie_titles.extend(movie_list)
 movie_titles = list(map(filter_func, movie_titles))
 movie_titles = list(map(unidecode, movie_titles))
+
+fp = open('movies.pickle', 'wb')
+pickle.dump(movie_titles, fp)
+fp.close()
