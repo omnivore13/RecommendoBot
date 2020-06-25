@@ -34,7 +34,7 @@ Babe
 Dead Man Walking
 It Takes Two
 Clueless
-"Cry, the Beloved Country"
+Cry, the Beloved Country
 Richard III
 Dead Presidents
 Restoration
@@ -63,7 +63,7 @@ Friday
 From Dusk Till Dawn
 Fair Game
 Kicking and Screaming
-"Misérables, Les"
+Misérables
 Bed of Roses
 Big Bully
 Screamers
@@ -102,7 +102,7 @@ Before and After
 Anne Frank Remembered
 Young Poisoner's Handbook
 If Lucy Fell
-"Steal Big, Steal Little"
+Steal Big
 Boys of St. Vincent
 Boomerang
 Chungking Express
@@ -119,7 +119,7 @@ Brothers McMullen
 Bad Boys
 Amazing Panda Adventure
 Basketball Diaries
-"Awfully Big Adventure, An"
+Awfully Big Adventure
 Amateur
 Apollo 13
 Rob Roy
@@ -169,11 +169,11 @@ Strange Days
 Umbrellas of Cherbourg
 Three Wishes
 Total Eclipse
-"To Wong Foo, Thanks for Everything! Julie Newmar"
+To Wong Foo
 Under Siege 2: Dark Territory
 Unstrung Heroes
 Unzipped
-"Walk in the Clouds, A"
+Walk in the Clouds
 Waterworld
 White Man's Burden
 Wild Bill
@@ -203,7 +203,7 @@ Ed Wood
 French Kiss
 Forget Paris
 Far From Home: The Adventures of Yellow Dog
-"Goofy Movie, A"
+Goofy Movie
 Hideaway
 Fluke
 Farinelli: il castrato
@@ -220,11 +220,11 @@ Jefferson in Paris
 Jerky Boys
 Junior
 Just Cause
-"Kid in King Arthur's Court, A"
+Kid in King Arthur's Court
 Kiss of Death
 Star Wars: Episode IV - A New Hope
 Little Women
-"Little Princess, A"
+Little Princess
 Ladybird Ladybird
 Like Water for Chocolate
 Legends of the Fall
@@ -254,7 +254,7 @@ Poison Ivy II
 Outbreak
 Léon: The Professional
 Perez Family
-"Pyromaniac's Love Story, A"
+Pyromaniac's Love Story
 Pulp Fiction
 Pushing Hands
 Priest
@@ -301,13 +301,13 @@ Double Happiness
 Muriel's Wedding
 Baby-Sitters Club
 Ace Ventura: Pet Detective
-"Adventures of Priscilla, Queen of the Desert"
+Adventures of Priscilla
 Backbeat
 Bitter Moon
 Bullets Over Broadway
 Clear and Present Danger
 Client
-"Corrina, Corrina"
+Corrina
 Crooklyn
 Crow
 Cobb
@@ -319,7 +319,7 @@ I Like It Like That
 I Love Trouble
 It Could Happen to You
 Jungle Book
-"Wonderful, Horrible Life of Leni Riefenstahl"
+Wonderful, Horrible Life of Leni Riefenstahl
 Lion King
 Little Buddha
 Wes Craven's New Nightmare
@@ -340,11 +340,11 @@ When a Man Loves a Woman
 Wolf
 Wyatt Earp
 Bad Company
-"Man of No Importance, A"
+Man of No Importance
 S.F.W.
-"Low Down Dirty Shame, A"
+Low Down Dirty Shame
 Boys Life
-"Colonel Chabert, Le"
+Colonel Chabert
 Faster Pussycat! Kill! Kill!
 Jason's Lyric
 Street Fighter
@@ -370,7 +370,7 @@ Blue Chips
 Blue Sky
 Body Snatchers
 Boxing Helena
-"Bronx Tale, A"
+Bronx Tale
 Cabin Boy
 Calendar Girl
 Carlito's Way
@@ -440,7 +440,7 @@ Next Karate Kid
 No Escape
 North
 Orlando
-"Perfect World, A"
+Perfect World
 Philadelphia
 Piano
 Poetic Justice
@@ -467,7 +467,7 @@ Serial Mom
 Shadow
 Shadowlands
 Short Cuts
-"Simple Twist of Fate, A"
+Simple Twist of Fate
 Sirens
 Six Degrees of Separation
 Sleepless in Seattle
@@ -493,7 +493,7 @@ Chasers
 Kika
 Bhaji on the Beach
 Little Big League
-"Ciao, Professore!"
+Ciao, Professore!
 Spanking the Monkey
 Little Rascals
 Andre
@@ -515,7 +515,7 @@ Pinocchio
 Pretty Woman
 Wild Bunch
 Love and a .45
-"Great Day in Harlem, A"
+Great Day in Harlem
 One Fine Day
 Candyman: Farewell to the Flesh
 Fargo
@@ -529,14 +529,14 @@ Aristocats
 Flower of My Secret
 Two Much
 Ed
-"Thin Line Between Love and Hate, A"
+Thin Line Between Love and Hate
 Last Supper
 Primal Fear
 All Dogs Go to Heaven 2
 Land and Freedom
 Denise Calls Up
 Theodore Rex
-"Family Thing, A"
+Family Thing
 Frisk
 Sgt. Bilko
 Jack and Sarah
@@ -621,8 +621,8 @@ Cable Guy
 Kingpin
 Eraser
 Nutty Professor
-"Unforgettable Summer, An"
-"Last Klezmer: Leopold Kozlowski, His Life and Music"
+Unforgettable Summer
+Last Klezmer: Leopold Kozlowski
 Somebody to Love
 Daylight
 Frighteners
@@ -631,13 +631,13 @@ Harriet the Spy
 Phenomenon
 Walking and Talking
 She's the One
-"Time to Kill, A"
+Time to Kill
 American Buffalo
 Alaska
 Fled
 Kazaam
 Larger Than Life
-"Very Brady Sequel, A"
+Very Brady Sequel
 Collector
 Kaspar Hauser
 Adventures of Pinocchio
@@ -680,7 +680,7 @@ Wild Reeds
 For Whom the Bell Tolls
 Philadelphia Story
 Singin' in the Rain
-"American in Paris, An"
+American in Paris
 Funny Face
 Breakfast at Tiffany's
 Vertigo
@@ -711,7 +711,7 @@ Rebecca
 Foreign Correspondent
 Notorious
 Spellbound
-"Affair to Remember, An"
+Affair to Remember
 To Catch a Thief
 Father of the Bride
 Band Wagon
@@ -744,7 +744,7 @@ African Queen
 Beat the Devil
 Cat on a Hot Tin Roof
 Meet John Doe
-"Farewell to Arms, A"
+Farewell to Arms
 Nothing Personal
 Dangerous Ground
 Picnic
@@ -764,7 +764,7 @@ Glimmer Man
 D3: The Mighty Ducks
 Chamber
 Apple Dumpling Gang
-"Davy Crockett, King of the Wild Frontier"
+Davy Crockett, King of the Wild Frontier
 Escape to Witch Mountain
 Love Bug
 Herbie Rides Again
@@ -775,7 +775,7 @@ Homeward Bound: The Incredible Journey
 Shaggy Dog
 Swiss Family Robinson
 That Darn Cat!
-"20,000 Leagues Under the Sea"
+20,000 Leagues Under the Sea
 Cool Runnings
 Angels in the Outfield
 Cinderella
@@ -817,7 +817,7 @@ Willy Wonka & the Chocolate Factory
 Innocents
 Sleeper
 Bananas
-"Fish Called Wanda, A"
+Fish Called Wanda
 Monty Python's Life of Brian
 Victor/Victoria
 Candidate
@@ -835,22 +835,22 @@ Crying Game
 Glengarry Glen Ross
 Sophie's Choice
 E.T. the Extra-Terrestrial
-"Christmas Carol, A"
+Christmas Carol
 Days of Thunder
 Top Gun
 Rebel Without a Cause
-"Streetcar Named Desire, A"
+Streetcar Named Desire
 Children of the Corn IV: The Gathering
 Loser
 Microcosmos
 Palookaville
 Funeral
-"Single Girl, A"
+Single Girl
 Eighth Day
 Drunks
 People vs. Larry Flynt
 Glory Daze
-"Perfect Candidate, A"
+Perfect Candidate
 On Golden Pond
 Return of the Pink Panther
 Drop Dead Fred
@@ -887,7 +887,7 @@ Hear My Song
 English Patient
 Mediterraneo
 My Left Foot
-"Sex, Lies, and Videotape"
+Sex, Lies, and Videotape
 Passion Fish
 Strictly Ballroom
 Thin Blue Line
@@ -901,11 +901,11 @@ Princess Bride
 Raiders of the Lost Ark
 Brazil
 Aliens
-"Good, the Bad and the Ugly"
+Good, the Bad and the Ugly
 Withnail & I
 12 Angry Men
 Lawrence of Arabia
-"Clockwork Orange, A"
+Clockwork Orange
 To Kill a Mockingbird
 Apocalypse Now
 Once Upon a Time in the West
@@ -922,7 +922,7 @@ Psycho
 Blues Brothers
 Godfather: Part II
 Full Metal Jacket
-"Grand Day Out with Wallace and Gromit, A"
+Grand Day Out with Wallace and Gromit
 Henry V
 Amadeus
 Quiet Man
@@ -931,7 +931,7 @@ Raging Bull
 Annie Hall
 Right Stuff
 Stalker
-"Boot, Das"
+Boot
 Sting
 Harold and Maude
 Trust
@@ -946,7 +946,7 @@ Miller's Crossing
 Dead Poets Society
 Graduate
 Touch of Evil
-"Femme Nikita, La"
+Femme Nikita
 Bridge on the River Kwai
 8 1/2
 Chinatown
@@ -992,7 +992,7 @@ Indiana Jones and the Last Crusade
 Being There
 Gandhi
 Unbearable Lightness of Being
-"Room with a View, A"
+Room with a View
 Real Genius
 Pink Floyd: The Wall
 Killing Fields
@@ -1001,14 +1001,14 @@ Forbidden Planet
 Field of Dreams
 Man Who Would Be King
 Butch Cassidy and the Sundance Kid
-"Paris, Texas"
+Paris, Texas
 Until the End of the World
 When Harry Met Sally...
 Hype!
 Female Perversions
 Blue Juice
 Alien³
-"American Werewolf in London, An"
+American Werewolf in London
 Amityville 1992: It's About Time
 Amityville 3-D
 Amityville: Dollhouse
@@ -1033,7 +1033,7 @@ Cape Fear
 Cape Fear
 Carrie
 Cat People
-"Nightmare on Elm Street, A"
+Nightmare on Elm Street
 Nosferatu
 Vampire in Venice
 Omen
@@ -1184,7 +1184,7 @@ Fall
 Men in Black
 Out to Sea
 Wild America
-"Simple Wish, A"
+Simple Wish
 Contact
 Love Serenade
 G.I. Jane
@@ -1211,7 +1211,7 @@ Air Force One
 187
 Hunt for Red October
 My Own Private Idaho
-"Kiss Me, Guido"
+Kiss Me, Guido
 Star Maps
 In & Out
 Edge
@@ -1221,7 +1221,7 @@ Seven Years in Tibet
 Kiss the Girls
 Soul Food
 Wishmaster
-"Thousand Acres, A"
+Thousand Acres
 Game
 Fire Down Below
 U Turn
@@ -1238,14 +1238,14 @@ The Devil's Advocate
 RocketMan
 Playing God
 House of Yes
-"Fast, Cheap & Out of Control"
+Fast, Cheap & Out of Control
 Washington Square
 Year of the Horse
 Gattaca
 FairyTale: A True Story
 Phantoms
 Swept from the Sea
-"Life Less Ordinary, A"
+Life Less Ordinary
 Hurricane Streets
 Eve's Bayou
 Switchback
@@ -1268,7 +1268,7 @@ Mortal Kombat: Annihilation
 Truman Show
 Wings of the Dove
 Mrs. Dalloway
-"I Love You, I Love You Not"
+I Love You, I Love You Not
 Red Corner
 Jackal
 Anastasia
@@ -1333,7 +1333,7 @@ Man in the Iron Mask
 Newton Boys
 Wild Things
 Paulie
-"Cool, Dry Place, A"
+Cool, Dry Place
 Fireworks
 Primary Colors
 Wide Awake
@@ -1366,8 +1366,8 @@ Species II
 Major League: Back to the Minors
 Big Hit
 Tarzan and the Lost City
-"Dancer, Texas Pop. 81"
-"Misérables, Les"
+Dancer, Texas Pop. 81
+Misérables
 Clockwatchers
 Deep Impact
 Quest for Camelot
@@ -1379,7 +1379,7 @@ Almost Heroes
 Hope Floats
 Insomnia
 Ugly
-"Perfect Murder, A"
+Perfect Murder
 Beyond Silence
 Six Days Seven Nights
 Can't Hardly Wait
@@ -1424,7 +1424,7 @@ On the Waterfront
 Marty
 West Side Story
 Tom Jones
-"Man for All Seasons, A"
+Man for All Seasons
 In the Heat of the Night
 Oliver!
 Midnight Cowboy
@@ -1444,10 +1444,10 @@ Repo Man
 Metropolitan
 Labyrinth
 Breakfast Club
-"Nightmare on Elm Street 2: Freddy's Revenge, A"
-"Nightmare on Elm Street 3: Dream Warriors, A"
-"Nightmare on Elm Street 4: The Dream Master, A"
-"Nightmare on Elm Street 5: The Dream Child, A"
+Nightmare on Elm Street 2: Freddy's Revenge
+Nightmare on Elm Street 3: Dream Warriors
+Nightmare on Elm Street 4: The Dream Master
+Nightmare on Elm Street 5: The Dream Child
 Freddy's Dead: The Final Nightmare
 Friday the 13th
 Friday the 13th Part 2
@@ -1481,7 +1481,7 @@ Gremlins 2: The New Batch
 Goonies
 Mask of Zorro
 Polish Wedding
-"This World, Then the Fireworks"
+This World, Then the Fireworks
 Soylent Green
 Metropolis
 Back to the Future Part II
@@ -1519,8 +1519,8 @@ Great Mouse Detective
 Herbie Goes Bananas
 Herbie Goes to Monte Carlo
 Hocus Pocus
-"Honey, I Blew Up the Kid"
-"Honey, I Shrunk the Kids"
+Honey, I Blew Up the Kid
+Honey, I Shrunk the Kids
 Hot Lead and Cold Feet
 In Search of the Castaways
 Incredible Journey
@@ -1597,8 +1597,8 @@ Charlotte's Web
 Watership Down
 Secret of NIMH
 Dark Crystal
-"American Tail, An"
-"American Tail: Fievel Goes West, An"
+American Tail
+American Tail: Fievel Goes West
 Legend
 Sixteen Candles
 Pretty in Pink
@@ -1685,7 +1685,7 @@ We're No Angels
 Nothing But Trouble
 Butcher's Wife
 Mortal Thoughts
-"Few Good Men, A"
+Few Good Men
 Indecent Proposal
 Permanent Midnight
 One True Thing
@@ -1706,7 +1706,7 @@ Edward Scissorhands
 Overnight Delivery
 Antz
 Impostors
-"Night at the Roxbury, A"
+Night at the Roxbury
 What Dreams May Come
 Strangeland
 Producers
@@ -1755,7 +1755,7 @@ Nights of Cabiria
 Big Chill
 Enemy of the State
 Rugrats Movie
-"Bug's Life, A"
+Bug's Life
 Celebrity
 Central Station
 Savior
@@ -1776,7 +1776,7 @@ Fletch Lives
 Red Sonja
 Gung Ho
 Money Pit
-"View to a Kill, A"
+View to a Kill
 Lifeforce
 Police Academy
 Police Academy 2: Their First Assignment
@@ -1790,7 +1790,7 @@ Very Bad Things
 Steam: The Turkish Bath
 Psycho
 Little Voice
-"Simple Plan, A"
+Simple Plan
 Jack Frost
 Star Trek: Insurrection
 Prince of Egypt
@@ -1819,8 +1819,8 @@ Heartburn
 Nothing in Common
 Extremities
 Karate Kid
-"Karate Kid, Part II"
-"Karate Kid, Part III"
+Karate Kid, Part II
+Karate Kid, Part III
 Christmas Vacation
 You've Got Mail
 General
@@ -1830,7 +1830,7 @@ Mighty Joe Young
 Mighty Joe Young
 Patch Adams
 Stepmom
-"Civil Action, A"
+Civil Action
 Hurlyburly
 Tea with Mussolini
 Affliction
@@ -1915,7 +1915,7 @@ Dancemaker
 Analyze This
 Corruptor
 Cruel Intentions
-"Lock, Stock & Two Smoking Barrels"
+Lock, Stock & Two Smoking Barrels
 School of Flesh
 Deep End of the Ocean
 Rage: Carrie 2
@@ -1936,7 +1936,7 @@ King and I
 Doug's 1st Movie
 EDtv
 Mod Squad
-"Walk on the Moon, A"
+Walk on the Moon
 Matrix
 10 Things I Hate About You
 Tango
@@ -2016,7 +2016,7 @@ Austin Powers: The Spy Who Shagged Me
 Red Violin
 Tarzan
 General's Daughter
-"Ideal Husband, An"
+Ideal Husband
 Legend of 1900
 Run Lola Run
 Trekkies
@@ -2026,12 +2026,12 @@ Dinner Game
 My Son the Fanatic
 Zone 39
 Arachnophobia
-"South Park: Bigger, Longer and Uncut"
+South Park: Bigger, Longer and Uncut
 Wild Wild West
 Summer of Sam
 American Pie
 Arlington Road
-"Autumn Tale, An"
+Autumn Tale
 Muppets From Space
 Blair Witch Project
 Eyes Wide Shut
@@ -2097,7 +2097,7 @@ Damien: Omen II
 Final Conflict
 Airplane!
 Airplane II: The Sequel
-"American Werewolf in Paris, An"
+American Werewolf in Paris
 European Vacation
 National Lampoon's Vacation
 Funny Farm
@@ -2108,7 +2108,7 @@ Little Nemo: Adventures in Slumberland
 Oscar and Lucinda
 Tequila Sunrise
 Pelican Brief
-"Christmas Story, A"
+Christmas Story
 Mickey Blue Eyes
 Teaching Mrs. Tingle
 Universal Soldier: The Return
@@ -2134,13 +2134,13 @@ Bedrooms & Hallways
 West Beirut
 Stigmata
 Stir of Echoes
-"Black Cat, White Cat"
+Black Cat, White Cat
 Minus Man
 Adventures of Milo and Otis
 Only Angels Have Wings
 Othello
 Saturn 3
-"Soldier's Story, A"
+Soldier's Story
 I Saw What You Did
 Yellow Submarine
 American Beauty
@@ -2148,7 +2148,7 @@ Stop Making Sense
 Blue Streak
 For Love of the Game
 Caligula
-"Hard Day's Night, A"
+Hard Day's Night
 Sugar Town
 Buddy Holly Story
 Fright Night
@@ -2171,9 +2171,9 @@ Guinevere
 Adventures of Elmo in Grouchland
 Simon Sez
 Drive Me Crazy
-"Mystery, Alaska"
+Mysteryaska
 Three Kings
-"Happy, Texas"
+Happy, Texas
 New Rose Hotel
 Plunkett & MaCleane
 Romance
@@ -2220,7 +2220,7 @@ Goldfinger
 From Russia with Love
 Dr. No
 Blue Lagoon
-"Fistful of Dollars, A"
+Fistful of Dollars
 Sydney
 Home Alone 2: Lost in New York
 Someone to Watch Over Me
@@ -2232,7 +2232,7 @@ Omega Code
 Straight Story
 Bad Seed
 Time Bandits
-"Man and a Woman, A"
+Man and a Woman
 Fitzcarraldo
 All That Jazz
 Red Sorghum
@@ -2267,7 +2267,7 @@ Insider
 American Movie
 Last Night
 Rosetta
-"They Shoot Horses, Don't They?"
+They Shoot Horses, Don't They?
 Bride of Re-Animator
 Bustin' Loose
 Coma
@@ -2289,7 +2289,7 @@ Robin Hood
 Mister Roberts
 Quest for Fire
 Little Big Man
-"Face in the Crowd, A"
+Face in the Crowd
 Trading Places
 Meatballs
 Meatballs Part II
@@ -2340,7 +2340,7 @@ My Man Godfrey
 Shop Around the Corner
 Natural
 Shampoo
-"River Runs Through It, A"
+River Runs Through It
 Fatal Attraction
 Jagged Edge
 Stanley & Iris
@@ -2397,10 +2397,10 @@ Next Friday
 Hurricane
 Angela's Ashes
 Titus
-"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr."
+Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.
 Third Miracle
 Snow Falling on Cedars
-"Girl, Interrupted"
+Girl, Interrupted
 My Dog Skip
 Supernova
 Terrorist
@@ -2415,13 +2415,13 @@ Boys from Brazil
 Against All Odds
 Loaded Weapon 1
 Fast Times at Ridgemont High
-"Cry in the Dark, A"
+Cry in the Dark
 Batman: Mask of the Phantasm
 American Flyers
-"Star Is Born, A"
+Star Is Born
 Pacific Heights
 Draughtsman's Contract
-"Zed & Two Noughts, A"
+Zed & Two Noughts
 Woman in the Dunes
 Down to You
 Odessa File
@@ -2440,7 +2440,7 @@ Agnes of God
 Scent of a Woman
 Wayne's World
 Wayne's World 2
-"League of Their Own, A"
+League of Their Own
 Patriot Games
 Bodyguard
 Death Becomes Her
@@ -2452,7 +2452,7 @@ White Men Can't Jump
 Buffy the Vampire Slayer
 Hard-Boiled
 Man Bites Dog
-"Mariachi, El"
+Mariachi, El
 Stop! Or My Mom Will Shoot
 Forever Young
 Cutting Edge
@@ -2501,9 +2501,9 @@ For All Mankind
 Born Yesterday
 Birdy
 Blood Feast
-"Charlie, the Lonesome Cougar"
+Charlie, the Lonesome Cougar
 Never Cry Wolf
-"Raisin in the Sun, A"
+Raisin in the Sun
 Closer You Get
 Mission to Mars
 Ninth Gate
@@ -2542,7 +2542,7 @@ Baby... Secret of the Lost Legend
 Turtle Diary
 Raise the Titanic
 Titanic
-"Night to Remember, A"
+Night to Remember
 Captain Horatio Hornblower R.N.
 Erin Brockovich
 Final Destination
@@ -2577,7 +2577,7 @@ Bloodsport
 Eyes of Laura Mars
 Funny Bones
 Good Earth
-"Good Morning, Vietnam"
+Good Morning, Vietnam
 Good Mother
 Grumpy Old Men
 Guess Who's Coming to Dinner
@@ -2597,10 +2597,10 @@ Dersu Uzala
 Close Encounters of the Third Kind
 Jonah Who Will Be 25 in the Year 2000
 Retroactive
-"Place in the Sun, A"
+Place in the Sun
 Jacob's Ladder
 Empire Records
-"Bamba, La"
+Bamba, La
 Ladyhawke
 Lucas
 High Fidelity
@@ -2628,7 +2628,7 @@ Return to Me
 Rules of Engagement
 Joe Gould's Secret
 Me Myself I
-"Bell, Book and Candle"
+Bell, Book and Candle
 Force 10 from Navarone
 Mystery Train
 Arthur
@@ -2712,8 +2712,8 @@ Spy Who Loved Me
 Vagabond
 Moonraker
 Man with the Golden Gun
-"King in New York, A"
-"Woman of Paris, A"
+King in New York
+Woman of Paris
 Fighting Seabees
 Big Momma's House
 Abominable Snowman
@@ -2754,7 +2754,7 @@ Porky's Revenge
 Private School
 Class of Nuke 'Em High
 Toxic Avenger
-"Toxic Avenger, Part II"
+Toxic Avenger, Part II
 Toxic Avenger Part III: The Last Temptation of Toxie
 Night of the Creeps
 Predator 2
@@ -2805,14 +2805,14 @@ Titan A.E.
 Butterfly
 Jesus' Son
 Chicken Run
-"Me, Myself & Irene"
+Me, Myself & Irene
 Patriot
 Adventures of Rocky and Bullwinkle
 Perfect Storm
 Golden Bowl
 Communion
 Kentucky Fried Movie
-"Blood In, Blood Out"
+Blood In, Blood Out
 F/X
 F/X2
 Hot Spot
@@ -2876,11 +2876,11 @@ Sleepaway Camp
 Steel Magnolias
 And God Created Woman
 Easy Money
-"Ilsa, She Wolf of the SS"
+Ilsa, She Wolf of the SS
 The Spiral Staircase
 I'm the One That I Want
 Tao of Steve
-"Affair of Love, An"
+Affair of Love
 Bless the Child
 Cecil B. DeMented
 Eyes of Tammy Faye
@@ -2893,7 +2893,7 @@ Naked Gun: From the Files of Police Squad!
 Naked Gun 2 1/2: The Smell of Fear
 Our Town
 Shane
-"Suddenly, Last Summer"
+Suddenly, Last Summer
 Cat Ballou
 Supergirl
 Art of War
@@ -2922,7 +2922,7 @@ Remember the Titans
 Hellraiser
 Hellbound: Hellraiser II
 Hellraiser III: Hell on Earth
-"Faraway, So Close"
+Faraway, So Close
 Bikini Beach
 Stranger Than Paradise
 Voyage to the Bottom of the Sea
@@ -2981,12 +2981,12 @@ Rugrats in Paris: The Movie
 Malèna
 Quills
 Unbreakable
-"Crouching Tiger, Hidden Dragon"
+Crouching Tiger, Hidden Dragon
 Dungeons & Dragons
 Proof of Life
 Vertical Limit
 Bounty
-"Planes, Trains & Automobiles"
+Planes, Trains & Automobiles
 She's Having a Baby
 Living Daylights
 Transformers: The Movie
@@ -2997,7 +2997,7 @@ Brewster's Millions
 Snatch
 Punchline
 Chocolat
-"Dude, Where's My Car?"
+Dude, Where's My Car?
 Emperor's New Groove
 Pollock
 What Women Want
@@ -3008,11 +3008,11 @@ Cast Away
 Family Man
 House of Mirth
 Miss Congeniality
-"O Brother, Where Art Thou?"
+O Brother, Where Art Thou?
 State and Main
 Dracula 2000
 All the Pretty Horses
-"Everlasting Piece, An"
+Everlasting Piece
 Thirteen Days
 Traffic
 Claim
@@ -3020,7 +3020,7 @@ Shadow of the Vampire
 House of Games
 Annie
 Don't Tell Mom the Babysitter's Dead
-"Officer and a Gentleman, An"
+Officer and a Gentleman
 Alamo
 At Close Range
 Friendly Persuasion
@@ -3072,7 +3072,7 @@ Ishtar
 Jaws: The Revenge
 Leonard Part 6
 Less Than Zero
-"Like Father, Like Son"
+Like Father, Like Son
 Lost Boys
 Made in Heaven
 Maid to Order
@@ -3184,16 +3184,16 @@ For the Boys
 Nine to Five
 Norma Rae
 Summer Rental
-"5,000 Fingers of Dr. T"
+5,000 Fingers of Dr. T
 Love Story
 Pelle the Conqueror
 Rififi
-"Knight's Tale, A"
+Knight's Tale
 Bread and Roses
 Startup.com
 Angel Eyes
 Shrek
-"Fast Food, Fast Women"
+Fast Food, Fast Women
 Moulin Rouge
 Pearl Harbor
 Himalaya
@@ -3310,7 +3310,7 @@ Big Business
 Big Top Pee-Wee
 Biloxi Blues
 Blob
-"Bright Lights, Big City"
+Bright Lights, Big City
 Caddyshack II
 Camille Claudel
 Cocktail
@@ -3341,7 +3341,7 @@ Masquerade
 Milagro Beanfield War
 Moon Over Parador
 My Stepmother Is an Alien
-"Night in the Life of Jimmy Reardon, A"
+Night in the Life of Jimmy Reardon
 Bagdad Cafe
 Red Heat
 Return of the Living Dead
@@ -3352,7 +3352,7 @@ Serpent and the Rainbow
 Short Circuit 2
 Short Circuit
 Vanishing
-"Tetsuo, the Ironman"
+Tetsuo, the Ironman
 They Live
 Tucker: The Man and His Dream
 Twins
@@ -3384,7 +3384,7 @@ Gross Anatomy
 Harlem Nights
 Her Alibi
 How to Get Ahead in Advertising
-"Innocent Man, An"
+Innocent Man
 January Man
 Johnny Handsome
 Jesus of Montreal
@@ -3422,7 +3422,7 @@ Road House
 Santa Sangre
 Scenes from the Class Struggle in Beverly Hills
 Sea of Love
-"See No Evil, Hear No Evil"
+See No Evil, Hear No Evil
 She's Out of Control
 Skin Deep
 Stepfather
@@ -3448,7 +3448,7 @@ Princess Diaries
 Rush Hour 2
 Chocolat
 Hatari!
-"Cage aux Folles, La"
+Cage aux Folles, La
 Marat/Sade
 Paint Your Wagon
 Shootist
@@ -3509,7 +3509,7 @@ Opera
 Father Goose
 Grass Is Greener
 Indiscreet
-"It's a Mad, Mad, Mad, Mad World"
+It's a Mad, Mad, Mad, Mad World
 King Solomon's Mines
 Little Foxes
 Operation Petticoat
@@ -3566,7 +3566,7 @@ Life as a House
 Man Who Wasn't There
 Town is Quiet
 Domestic Disturbance
-"Monsters, Inc."
+Monsters, Inc.
 One
 Tape
 Heist
@@ -3587,7 +3587,7 @@ Beastmaster
 Midway
 MacArthur
 Subway
-"Now, Voyager"
+Now, Voyager
 Little Women
 Cheap Detective
 Everybody's Famous!
@@ -3600,7 +3600,7 @@ Final Countdown
 Flash Gordon
 Angry Red Planet
 Enforcer
-"Eye for an Eye, An"
+Eye for an Eye
 Gauntlet
 Lord of the Flies
 Morons From Outer Space
@@ -3638,7 +3638,7 @@ Joe Somebody
 Kate & Leopold
 Lord of the Rings: The Fellowship of the Ring
 Majestic
-"Beautiful Mind, A"
+Beautiful Mind
 Defiant Ones
 Party
 Topkapi
@@ -3658,7 +3658,7 @@ Brotherhood of the Wolf
 Another 48 Hrs.
 What Time Is It There?
 Russia House
-"Truly, Madly, Deeply"
+Truly, Madly, Deeply
 Dragonslayer
 Conan the Destroyer
 Fire and Ice
@@ -3676,7 +3676,7 @@ Seconds
 One-Eyed Jacks
 The Count of Monte Cristo
 Mothman Prophecies
-"Walk to Remember, A"
+Walk to Remember
 Beijing Bicycle
 Escaflowne: The Movie
 Maelström
@@ -3693,7 +3693,7 @@ Going Places
 Big Fat Liar
 Collateral Damage
 Rollerball
-"Scotland, Pa."
+Scotland, Pa.
 Baby's Day Out
 Heidi
 Rookie of the Year
@@ -3741,8 +3741,8 @@ Mon oncle d'Amérique
 Motel Hell
 Ffolkes
 Octagon
-"Oh, God! Book II"
-"Oh, God!"
+Oh, God! Book II
+Oh, God!
 Ice Age
 Resident Evil
 Showtime
@@ -3791,7 +3791,7 @@ Human Nature
 My Big Fat Greek Wedding
 3:10 to Yuma
 Joe Versus the Volcano
-"Rome, Open City"
+Rome, Open City
 Taking Care of Business
 Three Men and a Baby
 Three Men and a Little Lady
@@ -3863,7 +3863,7 @@ Dark Blue World
 Caveman
 Cheech & Chong's The Corsican Brothers
 Silver Bullet
-"Sorry, Wrong Number"
+Sorry, Wrong Number
 Hombre
 Manhattan Project
 Men at Work
@@ -3996,7 +3996,7 @@ Man from Elysian Fields
 Welcome to Collinwood
 Flirting
 Godzilla vs. Mothra
-"Godzilla, King of the Monsters!"
+Godzilla, King of the Monsters!
 Powaqqatsi
 Pride of the Yankees
 Valmont
@@ -4034,7 +4034,7 @@ Without Warning
 Absence of Malice
 Banana Joe
 Blow Out
-"Friend Is a Treasure, A"
+Friend Is a Treasure
 Chosen
 Continental Divide
 Eyewitness
@@ -4067,7 +4067,7 @@ Roger Dodger
 Casino Royale
 Company of Wolves
 Exodus
-"Russians Are Coming, the Russians Are Coming"
+Russians Are Coming, the Russians Are Coming
 World of Henry Orient
 I Spy
 Santa Clause 2
@@ -4107,7 +4107,7 @@ Treasure Planet
 They
 Chopper Chicks in Zombietown
 Brother
-"Cruel Romance, A"
+Cruel Romance
 Elling
 I Spit on Your Grave
 Last Seduction
@@ -4171,7 +4171,7 @@ Confessions of a Dangerous Mind
 Blue Collar Comedy Tour: The Movie
 Just Married
 City of Lost Souls
-"Guy Thing, A"
+Guy Thing
 Kangaroo Jack
 National Security
 City of God
@@ -4204,11 +4204,11 @@ Harder They Fall
 Ordinary Decent Criminal
 Tokyo Decadence
 Firefox
-"I, the Jury"
+I, the Jury
 Kiss Me Goodbye
 Last Unicorn
 Dragon Lord
-"Midsummer Night's Sex Comedy, A"
+Midsummer Night's Sex Comedy
 Missing
 Monty Python Live at the Hollywood Bowl
 Night of the Shooting Stars
@@ -4235,7 +4235,7 @@ He Loves Me... He Loves Me Not
 Dennis the Menace
 Black Stallion Returns
 Black Stallion
-"Patch of Blue, A"
+Patch of Blue
 Red Badge of Courage
 Thrill of It All
 Pillow Talk
@@ -4294,7 +4294,7 @@ Akira Kurosawa's Dreams
 Day for Night
 In a Lonely Place
 Good Thief
-"Man Apart, A"
+Man Apart
 Phone Booth
 Cowboy Bebop: The Movie
 Levity
@@ -4306,7 +4306,7 @@ House of 1000 Corpses
 Lilya 4-Ever
 Bulletproof Monk
 Chasing Papi
-"Mighty Wind, A"
+Mighty Wind
 Holes
 Malibu's Most Wanted
 Winged Migration
@@ -4327,7 +4327,7 @@ Scenes from a Mall
 Confidence
 Identity
 It Runs in the Family
-"Decade Under the Influence, A"
+Decade Under the Influence
 Manic
 People I Know
 Spellbound
@@ -4342,7 +4342,7 @@ Man on the Train
 Shape of Things
 Trip
 101 Reykjavik
-"Chorus Line, A"
+Chorus Line
 Beat Street
 Breakin' 2: Electric Boogaloo
 Breakin'
@@ -4372,7 +4372,7 @@ Crazies
 Murder on a Sunday Morning
 Siam Sunset
 Treasure Island
-"Walk, Don't Run"
+Walk, Don't Run
 Animals are Beautiful People
 Car Wash
 Destry Rides Again
@@ -4385,13 +4385,13 @@ Railway Children
 Two Mules for Sister Sara
 Winchester '73
 Man with the Movie Camera
-"Objective, Burma!"
+Objective, Burma!
 This Boy's Life
 Barton Fink
 Belle époque
 Flight of the Phoenix
 From the Terrace
-"Long, Hot Summer"
+Long, Hot Summer
 Man of Aran
 Music Box
 Trial
@@ -4410,7 +4410,7 @@ Alex and Emma
 Charlie's Angels: Full Throttle
 Fulltime Killer
 Ali: Fear Eats the Soul
-"Bodies, Rest & Motion"
+Bodies, Rest & Motion
 Ring of Terror
 You Only Live Once
 Anastasia
@@ -4419,9 +4419,9 @@ Mr. Baseball
 Scaramouche
 Start the Revolution Without Me
 Tenant
-"What's Up, Doc?"
+What's Up, Doc?
 Hulk
-"Legally Blonde 2: Red, White & Blonde"
+Legally Blonde 2: Red, White & Blonde
 Sinbad: Legend of the Seven Seas
 Terminator 3: Rise of the Machines
 Swimming Pool
@@ -4453,12 +4453,12 @@ Scorched
 Avanti!
 Eve of Destruction
 Kickboxer 2: The Road Back
-"Kiss Me, Stupid"
-"One, Two, Three"
+Kiss Me, Stupid
+One, Two, Three
 Private Life of Sherlock Holmes
 Remo Williams: The Adventure Begins
 Blood of Heroes
-"What's Up, Tiger Lily?"
+What's Up, Tiger Lily?
 American Wedding
 Gigli
 And Now... Ladies and Gentlemen...
@@ -4466,10 +4466,10 @@ Magdalene Sisters
 Secret Lives of Dentists
 Freaky Friday
 S.W.A.T.
-"Divorce, Le"
+Divorce, Le
 Princess Blade
 Step Into Liquid
-"Double Life, A"
+Double Life
 Hawks and Sparrows
 Gospel According to St. Matthew
 Umberto D.
@@ -4507,7 +4507,7 @@ Waco: The Rules of Engagement
 Road Home
 Ikiru
 Comic Book Villains
-"Angel at My Table, An"
+Angel at My Table
 Handmaid's Tale
 Revolution OS
 Death in Venice
@@ -4537,7 +4537,7 @@ Once Upon a Time in China II
 Once Upon a Time in China III
 Paper Moon
 Day of the Dead
-"Hello, Dolly!"
+Hello, Dolly!
 Memoirs of an Invisible Man
 Once Bitten
 Squirm
@@ -4561,7 +4561,7 @@ Videodrome
 Life and Debt
 Lagaan: Once Upon a Time in India
 Judgment at Nuremberg
-"Brief History of Time, A"
+Brief History of Time
 Leningrad Cowboys Go America
 Rules of the Game
 Seven Brides for Seven Brothers
@@ -4587,7 +4587,7 @@ PCU
 Rookie
 City Heat
 Three O'Clock High
-"White Hunter, Black Heart"
+White Hunter, Black Heart
 Come and See
 Ginger Snaps
 More American Graffiti
@@ -4598,7 +4598,7 @@ Amazing Transparent Man
 Love Affair
 Scrooge
 Leap of Faith
-"Gas, Food, Lodging"
+Gas, Food, Lodging
 In Cold Blood
 Campus Man
 Yankee Doodle Dandy
@@ -4634,7 +4634,7 @@ Eye
 Jolson Story
 You'll Never Get Rich
 Unvanquished
-"Cercle Rouge, Le"
+Cercle Rouge, Le
 Human Stain
 Shattered Glass
 Matrix Revolutions
@@ -4663,7 +4663,7 @@ Devil's Playground
 Journeys with George
 Darkman
 Dead of Night
-"Dernier Combat, Le"
+Dernier Combat, Le
 Desk Set
 Europa
 Final Analysis
@@ -4674,7 +4674,7 @@ WarGames
 Ordet
 Forbidden Games
 Jane Eyre
-"Tale of Two Cities, A"
+Tale of Two Cities
 Passion of Joan of Arc
 Ben-Hur: A Tale of the Christ
 Cabinet of Dr. Caligari
@@ -4705,8 +4705,8 @@ Project X
 Proof
 Battle Royale
 Wedding Banquet
-"Salo, or The 120 Days of Sodom"
-"Midnight Clear, A"
+Salo, or The 120 Days of Sodom
+Midnight Clear
 Summer School
 Silverado
 Quick Change
@@ -4727,13 +4727,13 @@ Year of the Dragon
 Nothing to Lose
 Flying Down to Rio
 Follow the Fleet
-"What's New, Pussycat"
+What's New, Pussycat
 Mary of Scotland
 Roberta
 Little Women
 Swing Time
 Public Enemy
-"Midsummer Night's Dream, A"
+Midsummer Night's Dream
 Life with Father
 National Velvet
 Jesus Christ Superstar
@@ -4745,9 +4745,9 @@ Birth of a Nation
 Juliet of the Spirits
 Macbeth
 Red River
-"Woman Under the Influence, A"
+Woman Under the Influence
 Stagecoach
-"Shot in the Dark, A"
+Shot in the Dark
 Navigator
 Court Jester
 Bullitt
@@ -4756,10 +4756,10 @@ Hunchback of Notre Dame
 42nd Street
 That Touch of Mink
 Sweet Dreams
-"Play It Again, Sam"
+Play It Again, Sam
 Send Me No Flowers
 Pygmalion
-"Passage to India, A"
+Passage to India
 Black Orpheus
 Amarcord
 Hero
@@ -4786,8 +4786,8 @@ Naked Lunch
 Grass
 Spring Forward
 Run
-"Summer Place, A"
-"Night at the Opera, A"
+Summer Place
+Night at the Opera
 Element of Crime
 Cooler
 In America
@@ -4840,9 +4840,9 @@ Reefer Madness
 D.O.A.
 Pumping Iron
 Cool World
-"Strada, La"
+Strada, La
 Ichi the Killer
-"Boy and His Dog, A"
+Boy and His Dog
 Ashes and Diamonds
 Intolerance: Love's Struggle Throughout the Ages
 Tormented
@@ -4862,7 +4862,7 @@ Miracle
 An Amazing Couple
 Dreamers
 Lost Skeleton of Cadavra
-"Hip Hop Witch, Da"
+Hip Hop Witch, Da
 Thirteen
 Best Defense
 50 First Dates
@@ -4878,8 +4878,8 @@ Herod's Law
 Flesh & Blood
 King Solomon's Mines
 Raw Deal
-"Goodbye, Mr. Chips"
-"Follow Me, Boys!"
+Goodbye, Mr. Chips
+Follow Me, Boys!
 Against the Ropes
 Confessions of a Teenage Drama Queen
 EuroTrip
@@ -4887,13 +4887,13 @@ Passion of the Christ
 Club Dread
 Dirty Dancing: Havana Nights
 Twisted
-"Good bye, Lenin!"
+Good bye, Lenin!
 Hidalgo
 Starsky & Hutch
 Reckoning
 Persona
 Passion of Anna
-"Corbeau, Le"
+Corbeau, Le
 Pickup on South Street
 Damned
 Just One of the Guys
@@ -4970,7 +4970,7 @@ Never Say Never Again
 Pride and Prejudice
 Fountainhead
 Woman of the Year
-"Samouraï, Le"
+Samouraï, Le
 Oklahoma!
 Desert Hearts
 Body Double
@@ -4992,7 +4992,7 @@ Bells of St. Mary's
 Delta Force
 Pat and Mike
 Animal Crackers
-"He Said, She Said"
+He Said, She Said
 Bedazzled
 Cat People
 Camelot
@@ -5009,15 +5009,15 @@ Weekend
 Tuesdays with Morrie
 Alexander Nevsky
 Jason and the Argonauts
-"Tinker, Tailor, Soldier, Spy"
+Tinker, Tailor, Soldier, Spy
 Throne of Blood
 Best of Youth
 Undercurrent
-"Bang, Bang, You're Dead"
+Bang, Bang, You're Dead
 Twister
 Sniper
 Genghis Blues
-"11'09""01 - September 11"
+11'0901 - September 11
 Parallax View
 Warriors
 Babylon 5: A Call to Arms
@@ -5047,7 +5047,7 @@ Highway 61
 How to Succeed in Business Without Really Trying
 Pat Garrett and Billy the Kid
 Last Man on Earth
-"Duck, You Sucker"
+Duck, You Sucker
 Bring Me the Head of Alfredo Garcia
 Ride the High Country
 Master of the Flying Guillotine
@@ -5070,21 +5070,21 @@ Night of the Iguana
 Nightbreed
 Ken Park
 Monterey Pop
-"Bridge Too Far, A"
+Bridge Too Far
 Infernal Affairs
-"Tale of Two Sisters, A"
+Tale of Two Sisters
 Broadway Danny Rose
 From Beyond
 Robot Jox
 Dolls
 Space Truckers
 Death Race 2000
-"Bucket Of Blood, A"
+Bucket Of Blood
 Brigadoon
 Power of One
 Weather Underground
 Kikujiro
-"Spring, Summer, Fall, Winter... and Spring"
+Spring, Summer, Fall, Winter... and Spring
 Phantom Tollbooth
 Getaway
 Dark Water
@@ -5116,7 +5116,7 @@ Dead or Alive: Hanzaisha
 Lola Montès
 Charly
 Lust for Life
-"Dolce Vita, La"
+Dolce Vita, La
 Jin Roh: The Wolf Brigade
 Rush
 Captain Blood
@@ -5126,7 +5126,7 @@ Sansho the Bailiff
 Zazie dans le métro
 Americanization of Emily
 Anne of the Thousand Days
-"Avventura, L'"
+Avventura, L'
 Beyond the Valley of the Dolls
 Hiroshima Mon Amour
 Ugetsu
@@ -5200,13 +5200,13 @@ Executive Suite
 Johnny Belinda
 Super Size Me
 Johnny Eager
-"Jetée, La"
+Jetée, La
 Northwest Passage
 Picture of Dorian Gray
 Human Condition I
 Please Don't Eat the Daisies
 White Heat
-"Christmas Carol, A"
+Christmas Carol
 Memphis Belle
 Cincinnati Kid
 Animal Factory
@@ -5228,9 +5228,9 @@ Door in the Floor
 Notebook
 Two Brothers
 De-Lovely
-"Day at the Races, A"
+Day at the Races
 Bob & Carol & Ted & Alice
-"Claymation Christmas Celebration, A"
+Claymation Christmas Celebration
 Happenstance
 Comandante
 Undead
@@ -5262,17 +5262,17 @@ Spider-Man 2
 Before Sunset
 King Arthur
 Anchorman: The Legend of Ron Burgundy
-"Cinderella Story, A"
-"I, Robot"
+Cinderella Story
+I, Robot
 Maria Full of Grace
 Long Day's Journey Into Night
-"Short Film About Killing, A"
+Short Film About Killing
 Bourne Supremacy
 Catwoman
 A Home at the End of the World
 Testament of Dr. Mabuse
 Flash Gordon Conquers the Universe
-"Man Escaped, A"
+Man Escaped
 Miracle of Marcelino
 Slaughterhouse-Five
 Bachelor and the Bobby-Soxer
@@ -5285,9 +5285,9 @@ Super
 Leopard
 Day of the Locust
 To End All Wars
-"Woman Is a Woman, A"
+Woman Is a Woman
 Biggles
-"Yesterday, Today and Tomorrow"
+Yesterday, Today and Tomorrow
 Unprecedented: The 2000 Presidential Election
 Prime of Miss Jean Brodie
 My Voyage to Italy
@@ -5302,7 +5302,7 @@ Thunderbirds
 Village
 Garden State
 Musa the Warrior
-"Funny Thing Happened on the Way to the Forum, A"
+Funny Thing Happened on the Way to the Forum
 Collateral
 Little Black Book
 Code 46
@@ -5314,7 +5314,7 @@ AVP: Alien vs. Predator
 We Don't Live Here Anymore
 Without a Paddle
 Exorcist: The Beginning
-"Bill Cosby, Himself"
+Bill Cosby, Himself
 Anacondas: The Hunt for the Blood Orchid
 Suspect Zero
 Warriors of Heaven and Earth
@@ -5324,7 +5324,7 @@ Wicker Park
 Alice Doesn't Live Here Anymore
 Who's That Knocking at My Door?
 Camera Buff
-"Vitelloni, I"
+Vitelloni, I
 Cellular
 Resident Evil: Apocalypse
 Mr. 3000
@@ -5334,7 +5334,7 @@ First Daughter
 Forgotten
 Motorcycle Diaries
 Shaun of the Dead
-"Come Back, Little Sheba"
+Come Back, Little Sheba
 Murder on the Orient Express
 Mask
 Orca: The Killer Whale
@@ -5404,14 +5404,14 @@ Sherlock Jr.
 Freshman
 Greed
 Jazz Singer
-"Steamboat Bill, Jr."
-"Andalusian Dog, An"
+Steamboat Bill, Jr.
+Andalusian Dog
 Little Caesar
 Boudu Saved From Drowning
 Scarface
 Dinner at Eight
 Gold Diggers of 1933
-"Atalante, L'"
+Atalante, L'
 Fury
 Libeled Lady
 Mr. Deeds Goes to Town
@@ -5434,11 +5434,11 @@ Easter Parade
 Lady from Shanghai
 Three Musketeers
 Unfaithfully Yours
-"Letter to Three Wives, A"
+Letter to Three Wives
 Annie Get Your Gun
 King Solomon's Mines
 Young and the Damned
-"Star Is Born, A"
+Star Is Born
 The Wild One
 Confidential Report
 Night and Fog
@@ -5452,13 +5452,13 @@ Harakiri
 Music Man
 Mutiny on the Bounty
 Carabineers
-"Hush... Hush, Sweet Charlotte"
+Hush... Hush, Sweet Charlotte
 Onibaba
 Robinson Crusoe on Mars
 Battle of Algiers
-"Charlie Brown Christmas, A"
+Charlie Brown Christmas
 Major Dundee
-"Thousand Clowns, A"
+Thousand Clowns
 Andrei Rublev
 Au Hasard Balthazar
 Batman
@@ -5471,14 +5471,14 @@ Titicut Follies
 Asterix and Cleopatra
 Diamond Arm
 Sympathy for the Devil
-"Yours, Mine and Ours"
+Yours, Mine and Ours
 Claire's Knee
 Performance
 White Sun of the Desert
 Zabriskie Point
 Duel
 They Call Me Trinity
-"Topo, El"
+Topo, El
 Dr. Phibes Rises Again
 Charley Varrick
 Dark Star
@@ -5490,7 +5490,7 @@ Gone in 60 Seconds
 Holy Mountain
 Twelve Tasks of Asterix
 French Connection II
-"Irony of Fate, or Enjoy Your Bath!"
+Irony of Fate, or Enjoy Your Bath!
 Passenger
 Trilogy of Terror
 1900
@@ -5498,7 +5498,7 @@ Futureworld
 Harlan County U.S.A.
 Silver Streak
 High Anxiety
-"New York, New York"
+New York, New York
 Turning Point
 Five Deadly Venoms
 Last Hurrah for Chivalry
@@ -5511,12 +5511,12 @@ Smiley's People
 Blue Thunder
 Day After
 Eddie Murphy Delirious
-"Norte, El"
+Norte, El
 Twilight Zone: The Movie
 Boy Meets Girl
 Cloak & Dagger
 Ewok Adventure
-"Silent Night, Deadly Night"
+Silent Night, Deadly Night
 Times of Harvey Milk
 What Have I Done to Deserve This?
 Anne of Green Gables
@@ -5529,14 +5529,14 @@ White Nights
 'Round Midnight
 Club Paradise
 Sacrifice
-"Better Tomorrow, A"
+Better Tomorrow
 Decalogue
 G.I. Joe: The Movie
 Hell Comes to Frogtown
 Law of Desire
 Prince of Darkness
-"Chinese Ghost Story, A"
-"Better Tomorrow II, A"
+Chinese Ghost Story
+Better Tomorrow II
 Bourne Identity
 Dominick and Eugene
 Killer Klowns from Outer Space
@@ -5576,7 +5576,7 @@ Ladybugs
 Mambo Kings
 Shining Through
 Sidekicks
-"Heart in Winter, A"
+Heart in Winter
 Visions of Light: The Art of Cinematography
 Bad Boy Bubby
 Barbarians at the Gate
@@ -5590,13 +5590,13 @@ Freaked
 Fist of Legend
 Major League II
 My Father the Hero
-"Pure Formality, A"
+Pure Formality
 Langoliers
 Last Wedding
 Last of the Dogmen
 Whisper of the Heart
 Street Fighter II: The Animated Movie
-"Summer's Tale, A"
+Summer's Tale
 Late Shift
 Pusher
 Emma
@@ -5663,7 +5663,7 @@ Sympathy for Mr. Vengeance
 Jesus Christ Vampire Hunter
 Suicide Club
 Battlestar Galactica
-"Sound of Thunder, A"
+Sound of Thunder
 Lion King 1½
 Oasis
 Remember Me
@@ -5681,7 +5681,7 @@ In Hell
 Lemony Snicket's A Series of Unfortunate Events
 Helen of Troy
 Green Butchers
-"Very Long Engagement, A"
+Very Long Engagement
 Last Life in the Universe
 Ghost in the Shell 2: Innocence
 Cat Returns
@@ -5711,7 +5711,7 @@ Interpreter
 Open Water
 Touch of Pink
 Slasher
-"Bobby Jones, Stroke of Genius"
+Bobby Jones, Stroke of Genius
 Layer Cake
 Return
 Flight of the Phoenix
@@ -5727,7 +5727,7 @@ Born into Brothels
 DiG!
 Riding Giants
 What the #$*! Do We Know!?
-"Scanner Darkly, A"
+Scanner Darkly
 Casshern
 Outfoxed: Rupert Murdoch's War on Journalism
 Million Dollar Baby
@@ -5743,7 +5743,7 @@ Woodsman
 In Good Company
 Meet the Fockers
 Assassination of Richard Nixon
-"Love Song for Bobby Long, A"
+Love Song for Bobby Long
 Merchant of Venice
 Fat Albert
 Keys to the House
@@ -5784,7 +5784,7 @@ Rory O'Shea Was Here
 Nobody Knows
 Employee of the Month
 Marriage of Maria Braun
-"Trou, Le"
+Trou, Le
 Double Dragon
 Hands Off the Loot
 Purple Butterfly
@@ -5820,7 +5820,7 @@ Hostage
 Robots
 Class Action
 Cat and the Canary
-"Oh, God! You Devil"
+Oh, God! You Devil
 Agony and the Ecstasy
 Twentieth Century
 Elevator to the Gallows
@@ -5833,7 +5833,7 @@ Milk and Honey
 Miss Congeniality 2: Armed and Fabulous
 Guess Who
 D.E.B.S.
-"League of Ordinary Gentlemen, A"
+League of Ordinary Gentlemen
 Incident at Loch Ness
 Call Northside 777
 Sword of Doom
@@ -5843,7 +5843,7 @@ Greedy
 Pom Poko
 Knockin' on Heaven's Door
 We're No Angels
-"Touch of Zen, A"
+Touch of Zen
 Walker
 Memories
 Wild Parrots of Telegraph Hill
@@ -5855,7 +5855,7 @@ Fever Pitch
 Eros
 Not on the Lips
 Electra Glide in Blue
-"Special Day, A"
+Special Day
 Man Who Planted Trees
 Tanguy
 National Lampoon's Lady Killers
@@ -5866,7 +5866,7 @@ Maidens in Uniform
 With Six You Get Eggroll
 Holiday
 Ivan's Childhood
-"Trip to the Moon, A"
+Trip to the Moon
 Ascent
 Carrie
 Boccaccio '70
@@ -5877,7 +5877,7 @@ Before the Fall
 Frisco Kid
 State Property 2
 Palindromes
-"Lot Like Love, A"
+Lot Like Love
 King's Ransom
 Enron: The Smartest Guys in the Room
 xXx: State of the Union
@@ -5889,7 +5889,7 @@ Mischief
 Between Your Legs
 San Francisco
 Vampire Hunter D
-"Common Thread, A"
+Common Thread
 Cocoanuts
 Dear Wendy
 Los Angeles Plays Itself
@@ -5997,7 +5997,7 @@ Domino
 Waiting...
 Aeon Flux
 Frankenstein 90
-"Unfinished Life, An"
+Unfinished Life
 Man
 Survive Style 5+
 Woyzeck
@@ -6005,7 +6005,7 @@ Exorcism of Emily Rose
 Flightplan
 Corpse Bride
 Green Street Hooligans
-"History of Violence, A"
+History of Violence
 Oliver Twist
 Greatest Game Ever Played
 Capote
@@ -6015,9 +6015,9 @@ Into the Blue
 MirrorMask
 Wallace & Gromit in The Curse of the Were-Rabbit
 Kiss Kiss Bang Bang
-"Bittersweet Life, A"
-"Short Film About Love, A"
-"All This, and Heaven Too"
+Bittersweet Life
+Short Film About Love
+All Thisnd Heaven Too
 Darwin's Nightmare
 Beowulf & Grendel
 No Direction Home: Bob Dylan
@@ -6029,7 +6029,7 @@ Two for the Money
 Brokeback Mountain
 Elizabethtown
 North Country
-"Good Night, and Good Luck."
+Good Nightnd Good Luck.
 Dreamer: Inspired by a True Story
 Proposition
 Fog
@@ -6068,18 +6068,18 @@ C.R.A.Z.Y.
 Sarah Silverman: Jesus Is Magic
 Breakfast on Pluto
 Ice Harvest
-"Yours, Mine and Ours"
+Yours, Mine and Ours
 Libertine
 Bird with the Crystal Plumage
 Match Point
 Paradise Now
-"Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+Chronicles of Narnia: The Lion, the Witch and the Wardrobe
 King Kong
 Memoirs of a Geisha
 Family Stone
 Havoc
 Samurai Rebellion
-"Room for Romeo Brass, A"
+Room for Romeo Brass
 Matador
 Wal-Mart: The High Cost of Low Price
 Mozart and the Whale
@@ -6190,7 +6190,7 @@ Child
 9-Nov
 Scary Movie 4
 Hard Candy
-"Prairie Home Companion, A"
+Prairie Home Companion
 Sentinel
 Wild
 Silent Hill
@@ -6201,7 +6201,7 @@ Mission: Impossible III
 RV
 United 93
 Stick It
-"American Haunting, An"
+American Haunting
 Down in the Valley
 Over the Hedge
 Art School Confidential
@@ -6220,13 +6220,13 @@ Lake House
 Click
 Devil Wears Prada
 Pirates of the Caribbean: Dead Man's Chest
-"You, Me and Dupree"
+You, Me and Dupree
 Clerks II
 Lady in the Water
 My Super Ex-Girlfriend
 Marie Antoinette
 Who Killed the Electric Car?
-"Inconvenient Truth, An"
+Inconvenient Truth
 Career Opportunities
 High School Musical
 I Am a Sex Addict
@@ -6267,7 +6267,7 @@ Step Up
 Zoom
 Mind Game
 Half Nelson
-"Moustache, La"
+Moustache, La
 Tideland
 Adam's Apples
 Material Girls
@@ -6281,7 +6281,7 @@ Invincible
 Idlewild
 Red Balloon
 Angel-A
-"Chump at Oxford, A"
+Chump at Oxford
 Icicle Thief
 Puffy Chair
 Wicker Man
@@ -6339,7 +6339,7 @@ Flushed Away
 Perfume: The Story of a Murderer
 Santa Clause 3: The Escape Clause
 Mom and Dad Save the World
-"Good Year, A"
+Good Year
 Shut Up & Sing
 For Your Consideration
 Fuck
@@ -6404,9 +6404,9 @@ Norbit
 Boss of It All
 Cocaine Cowboys
 Ratatouille
-"Paris, I Love You"
+Paris, I Love You
 Astronaut Farmer
-"Wake Up, Ron Burgundy"
+Wake Up, Ron Burgundy
 It's a Boy Girl Thing
 Ugly Duckling and Me!
 The Odyssey
@@ -6461,7 +6461,7 @@ Hoax
 How the Grinch Stole Christmas!
 Disturbia
 Aqua Teen Hunger Force Colon Movie Film for Theaters
-"Vie en Rose, La"
+Vie en Rose, La
 Fracture
 Vacancy
 In the Land of Women
@@ -6492,7 +6492,7 @@ Mr. Brooks
 Librarian: Return to King Solomon's Mines
 Librarian: Quest for the Spear
 Fay Grim
-"I'm a Cyborg, But That's OK"
+I'm a Cyborg, But That's OK
 Breed
 Cashback
 Ocean's Thirteen
@@ -6511,9 +6511,9 @@ Rescue Dawn
 TV Set
 Valet
 Bring It On: All or Nothing
-"Power of Nightmares, The: The Rise of the Politics of Fear"
+Power of Nightmares, The: The Rise of the Politics of Fear
 Sicko
-"Mighty Heart, A"
+Mighty Heart
 1408
 Death at a Funeral
 Live Free or Die Hard
@@ -6562,7 +6562,7 @@ Gotti
 Atonement
 Electroma
 Requiem
-"4 Months, 3 Weeks and 2 Days"
+4 Months, 3 Weeks and 2 Days
 No End in Sight
 Brave One
 In the Valley of Elah
@@ -6570,7 +6570,7 @@ December Boys
 Shanghai Kiss
 Hunting Party
 Eastern Promises
-"Unreasonable Man, An"
+Unreasonable Man
 Tekkonkinkreet
 Love and Other Disasters
 Interview
@@ -6580,7 +6580,7 @@ Mr. Woodcock
 Good Luck Chuck
 Into the Wild
 Game Plan
-"Lust, Caution"
+Lust, Caution
 Seeker: The Dark Is Rising
 Heartbreak Kid
 Dan in Real Life
@@ -6620,7 +6620,7 @@ Man from Earth
 Lions For Lambs
 Beowulf
 Southland Tales
-"Evening with Kevin Smith 2: Evening Harder, An"
+Evening with Kevin Smith 2: Evening Harder
 Harrison Bergeron
 I Served the King of England
 Mist
@@ -6637,7 +6637,7 @@ Savages
 Wrong Turn 2: Dead End
 Orphanage
 Juno
-"Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders"
+Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders
 My Blueberry Nights
 Helvetica
 Bucket List
@@ -6680,7 +6680,7 @@ Rise of the Footsoldier
 Teeth
 Fool's Gold
 Jumper
-"Definitely, Maybe"
+Definitely, Maybe
 Air I Breathe
 Vantage Point
 Spiderwick Chronicles
@@ -6691,7 +6691,7 @@ Run Fatboy Run
 Taxi to the Dark Side
 Descent
 College Road Trip
-"10,000 BC"
+10,000 BC
 Bank Job
 Doomsday
 Horton Hears a Who!
@@ -6756,7 +6756,7 @@ Indiana Jones and the Kingdom of the Crystal Skull
 Nina's Heavenly Delights
 Sex and the City
 Strangers
-"Bigger, Stronger, Faster*"
+Bigger, Stronger, Faster*
 All the Boys Love Mandy Lane
 Kung Fu Panda
 Recount
@@ -6788,7 +6788,7 @@ Battle for Haditha
 Mamma Mia!
 Welcome to the Sticks
 Rogue
-"It's the Great Pumpkin, Charlie Brown"
+It's the Great Pumpkin, Charlie Brown
 Journey to the Center of the Earth
 Meet Dave
 Machine Girl
@@ -6847,7 +6847,7 @@ Altered
 Righteous Kill
 Lakeview Terrace
 Ghost Town
-"Crow, The: Wicked Prayer"
+Crow, The: Wicked Prayer
 Appaloosa
 Dead Fury
 Eagle Eye
@@ -6861,17 +6861,17 @@ FLCL
 Rachel Getting Married
 Body of Lies
 City of Ember
-"20,000 Leagues Under the Sea"
+20,000 Leagues Under the Sea
 Max Payne
 Zack and Miri Make a Porno
 W.
 My Best Friend's Girl
-"Synecdoche, New York"
+Synecdoche, New York
 Secret Life of Bees
-"American Carol, An"
+American Carol
 Wave
 Tokyo-Ga
-"Angus, Thongs and Perfect Snogging"
+Angus, Thongs and Perfect Snogging
 Pride and Glory
 Express
 Babylon 5: The Legend of the Rangers: To Live and Die in Starlight
@@ -6948,7 +6948,7 @@ Earthsea
 Ip Man
 Tale of Despereaux
 Bride Wars
-"Gamers, The: Dorkness Rising"
+Gamers, The: Dorkness Rising
 Mesrine: Killer Instinct
 My Bloody Valentine 3-D
 Battle in Seattle
@@ -6978,14 +6978,14 @@ Funny People
 Berlin Calling
 Nuremberg
 Away We Go
-"Divo, Il"
+Divo, Il
 Friday the 13th
-"Good, the Bad, the Weird"
+Good, the Bad, the Weird
 Pink Panther 2
 Rock-A-Doodle
 Dr. Horrible's Sing-Along Blog
 Cottage
-"I Love You, Man"
+I Love You, Man
 Dance of the Dead
 Haunting in Connecticut
 Duplicity
@@ -6995,7 +6995,7 @@ Sunshine Cleaning
 Kung Fu Panda: Secrets of the Furious Five
 Echelon Conspiracy
 Monsters vs. Aliens
-"Baader Meinhof Komplex, Der"
+Baader Meinhof Komplex, Der
 Big Stan
 Strictly Sexual
 Anvil! The Story of Anvil
@@ -7075,7 +7075,7 @@ Hood of Horror
 Watchmen: Tales of the Black Freighter
 (500) Days of Summer
 Brüno
-"Librarian, The: The Curse of the Judas Chalice"
+Librarian, The: The Curse of the Judas Chalice
 Harry Potter and the Half-Blood Prince
 Roots
 Eichmann
@@ -7087,7 +7087,7 @@ Polytechnique
 Orphan
 Ugly Truth
 Collector
-"Perfect Getaway, A"
+Perfect Getaway
 District 9
 Julie & Julia
 Obsessed
@@ -7100,11 +7100,11 @@ Winds of the Wasteland
 Lost in Austen
 Evangelion: 1.0 You Are
 Deal
-"Goods: Live Hard, Sell Hard"
+Goods: Live Hard, Sell Hard
 Time Traveler's Wife
 I Can't Think Straight
 Miss March
-"I Love You, Beth Cooper"
+I Love You, Beth Cooper
 Paper Heart
 G-Force
 Christopher Columbus: The Discovery
@@ -7133,7 +7133,7 @@ Final Destination
 Gamer
 Cloudy with a Chance of Meatballs
 Tyler Perry's I Can Do Bad All by Myself
-"Food, Inc."
+Food, Inc.
 Attack of the 50 Foot Woman
 Thirst
 Bright Star
@@ -7143,7 +7143,7 @@ World's Greatest Dad
 Still Walking
 Blood of the Beasts
 Cove
-"Serious Man, A"
+Serious Man
 City Island
 Ink
 Metropia
@@ -7154,14 +7154,14 @@ Invention of Lying
 Surrogates
 Zombieland
 Assassination of a High School President
-"Education, An"
+Education
 Coco Before Chanel
 Burma VJ: Reporting from a Closed Country
 Couples Retreat
 I Sell the Dead
 Where the Wild Things Are
 Legionnaire
-"New York, I Love You"
+New York, I Love You
 Law Abiding Citizen
 Misfortunates
 Mary and Max
@@ -7179,7 +7179,7 @@ Black Dynamite
 Welcome to Dongmakgol
 Gentlemen Broncos
 Fantastic Mr. Fox
-"Christmas Carol, A"
+Christmas Carol
 Battlestar Galactica: The Plan
 Private Lives of Pippa Lee
 Partly Cloudy
@@ -7196,13 +7196,13 @@ Teenage Mutant Ninja Turtles: Turtles Forever
 Merry Madagascar
 Brothers
 Garage
-"Blind Side, The "
+Blind Side, The 
 Mickey's Once Upon a Christmas
 Shrink
 Old Dogs
 Planet 51
 Earthlings
-"Single Man, A"
+Single Man
 Lovely Bones
 Invictus
 Princess and the Frog
@@ -7224,7 +7224,7 @@ Hachiko: A Dog's Story
 Leap Year
 Book of Eli
 Girl Who Kicked the Hornet's Nest
-"Prophet, A"
+Prophet
 Staten Island
 Maiden Heist
 Blood: The Last Vampire
@@ -7233,13 +7233,13 @@ Pekka ja Pätkä Suezilla
 Bart Got a Room
 Project A 2
 Robin-B-Hood
-"Concert, Le"
+Concert, Le
 Ninja
 Asterix at the Olympic Games
 Chaser
 Meantime
-"Rudolph, the Red-Nosed Reindeer"
-"Dennis the Menace Christmas, A"
+Rudolph, the Red-Nosed Reindeer
+Dennis the Menace Christmas
 Undisputed II: Last Man Standing
 3 Idiots
 Legion
@@ -7252,7 +7252,7 @@ Triangle
 I Love You Phillip Morris
 Anne of Green Gables: The Sequel
 Temple Grandin
-"Captain Newman, M.D."
+Captain Newman, M.D.
 House of the Devil
 Valentine's Day
 Wolfman
@@ -7277,7 +7277,7 @@ Gentlemen of Fortune
 [REC]²
 Room
 Alice in Wonderland
-"Town Called Panic, A"
+Town Called Panic
 Green Zone
 From Paris with Love
 Dorian Gray
@@ -7327,7 +7327,7 @@ MacGruber
 Three Men and a Cradle
 Sky Crawlers
 Cargo
-"Nightmare on Elm Street, A"
+Nightmare on Elm Street
 Four Lions
 St Trinian's 2: The Legend of Fritton's Gold
 12 Angry Men
@@ -7376,7 +7376,7 @@ Sorcerer's Apprentice
 Knight and Day
 Karate Kid
 Kids Are All Right
-"Serbian Film, A"
+Serbian Film
 Cherrybomb
 Batman: Under the Red Hood
 Salt
@@ -7412,7 +7412,7 @@ Going the Distance
 Resident Evil: Afterlife
 Princess
 Social Network
-"Man Vanishes, A"
+Man Vanishes
 Town
 Easy A
 Eat Pray Love
@@ -7557,7 +7557,7 @@ Mesrine: Public Enemy #1
 Just Go with It
 Cave of Forgotten Dreams
 Red Riding Hood
-"Big Mommas: Like Father, Like Son"
+Big Mommas: Like Father, Like Son
 Super
 Troll Hunter
 Source Code
@@ -7645,7 +7645,7 @@ Monte Carlo
 Harry Potter and the Deathly Hallows: Part 2
 Drive
 Captain America: The First Avenger
-"Crazy, Stupid, Love."
+Crazy, Stupid, Love.
 One Day
 Guard
 Winnie the Pooh
@@ -7667,7 +7667,7 @@ Help
 30 Minutes or Less
 My Afternoons with Margueritte
 Final Destination 5
-"Very Harold & Kumar 3D Christmas, A"
+Very Harold & Kumar 3D Christmas
 Don't Be Afraid of the Dark
 Fright Night
 Another Earth
@@ -7693,8 +7693,8 @@ Phineas and Ferb the Movie: Across the 2nd Dimension
 Northanger Abbey
 Avengers
 Tinker Tailor Soldier Spy
-"Separation, A"
-"Dangerous Method, A"
+Separation
+Dangerous Method
 Warrior
 Ides of March
 Kill List
@@ -7816,7 +7816,7 @@ Vow
 Louis C.K.: Live at the Beacon Theater
 Pitfall
 Monsieur Lazhar
-"For a Good Time, Call..."
+For a Good Time, Call...
 Janie Jones
 Journey 2: The Mysterious Island
 Perfect Sense
@@ -7824,8 +7824,8 @@ Rollo and the Woods Sprite
 Atomic Brain
 Ghost Rider: Spirit of Vengeance
 Prayers for Bobby
-"Very Potter Musical, A"
-"Very Potter Sequel, A"
+Very Potter Musical
+Very Potter Sequel
 Miss Nobody
 Civil War
 Ro.Go.Pa.G.
@@ -7844,7 +7844,7 @@ John Carter
 Goon
 Ledge
 21 Jump Street
-"Jeff, Who Lives at Home"
+Jeff, Who Lives at Home
 Lockout
 Snowtown
 Space Battleship Yamato
@@ -7895,7 +7895,7 @@ Wanderlust
 Moonrise Kingdom
 Get the Gringo
 Superman/Doomsday 
-"Thousand Words, A"
+Thousand Words
 Safety Not Guaranteed
 Madagascar 3: Europe's Most Wanted
 Your Sister's Sister
@@ -7936,13 +7936,13 @@ Geri's Game
 Some Guy Who Kills People
 Treasure Island
 Watch
-"Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper"
+Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper
 2 Days in New York
 Killer Joe
 Dragon Ball Z: Broly Second Coming
 Dragon Ball Z: Bio-Broly
 Anaconda: The Offspring
-"Christmas Carol, A"
+Christmas Carol
 Goodbye Charlie
 For the Birds
 Ruby Sparks
@@ -8030,7 +8030,7 @@ Bay
 Himizu
 Jackass 3.5
 Indie Game: The Movie
-"Batman: The Dark Knight Returns, Part 1"
+Batman: The Dark Knight Returns, Part 1
 Lincoln
 Nature Calls
 Vamps
@@ -8038,7 +8038,7 @@ Twilight Saga: Breaking Dawn - Part 2
 10 Years
 Red Dawn
 Rise of the Guardians
-"Fantastic Fear of Everything, A"
+Fantastic Fear of Everything
 Deadfall
 Byzantium
 Paperman
@@ -8050,7 +8050,7 @@ Redline
 Winners and Sinners
 My Lucky Stars
 Money Money Money
-"Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman, A"
+Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman
 Hobbit: An Unexpected Journey
 Hyde Park on Hudson
 How to Make Love to a Woman
@@ -8066,11 +8066,11 @@ This Is 40
 I Bought a Vampire Motorcycle
 Ice Cream Man
 Impossible
-"Misérables, Les"
+Misérables, Les
 Campfire Tales
 Parental Guidance
 John Dies at the End
-"Misérables, Les"
+Misérables, Les
 Promised Land
 English Vinglish
 Fish Story
@@ -8078,7 +8078,7 @@ Texas Chainsaw 3D
 Gangster Squad
 Iceman
 It's Such a Beautiful Day
-"Batman: The Dark Knight Returns, Part 2"
+Batman: The Dark Knight Returns, Part 2
 Everything or Nothing: The Untold Story of 007
 Codependent Lesbian Space Alien Seeks Same
 Last Stand
@@ -8101,7 +8101,7 @@ Side Effects
 Identity Thief
 ABCs of Death
 Beautiful Creatures
-"Good Day to Die Hard, A"
+Good Day to Die Hard
 21 and Over
 Safe Haven
 Frozen Planet
@@ -8134,7 +8134,7 @@ Host
 Admission
 Evil Dead
 Trance
-"Perfect Plan, A"
+Perfect Plan
 Oblivion
 Dark Tide
 42
@@ -8179,7 +8179,7 @@ With Great Power: The Stan Lee Story
 After Earth
 Now You See Me
 Inhuman Resources
-"Way, Way Back"
+Way, Way Back
 Much Ado About Nothing
 Man of Steel
 Kings of Summer
@@ -8215,7 +8215,7 @@ Stuck in Love
 Class Act
 Fruitvale Station
 R.I.P.D.
-"Field in England, A"
+Field in England
 Conjuring
 Turbo
 Wolverine
@@ -8273,7 +8273,7 @@ Runner Runner
 Blue Is the Warmest Color
 Cloudy with a Chance of Meatballs 2
 Captain Phillips
-"All Dogs Christmas Carol, An"
+All Dogs Christmas Carol
 Machete Kills
 Filth
 Escape Plan
@@ -8313,7 +8313,7 @@ American Hustle
 Secret Life of Walter Mitty
 Her
 RoboGeisha
-"Christmas Carol, A"
+Christmas Carol
 Lone Survivor
 Saving Mr. Banks
 Zatoichi and the Chest of Gold
@@ -8323,12 +8323,12 @@ Anchorman 2: The Legend Continues
 Snowpiercer
 Only Old Men Are Going to Battle
 Guest from the Future
-"Kidnapping, Caucasian Style"
+Kidnapping, Caucasian Style
 Haunter
 Wrong Cops
-"Muppet Christmas: Letters to Santa, A"
+Muppet Christmas: Letters to Santa
 Ninja: Shadow of a Tear
-"Fuck You, Goethe"
+Fuck You, Goethe
 High School
 Grudge Match
 Highlander: The Search for Vengeance
@@ -8349,7 +8349,7 @@ Divergent
 Hotel Chevalier
 Ernest & Célestine
 Drift
-"I, Frankenstein"
+I, Frankenstein
 Better Living Through Chemistry
 Nymphomaniac: Volume I
 Enemy
@@ -8371,7 +8371,7 @@ Chouchou
 Someone Marry Barry
 About Last Night
 Grand Budapest Hotel
-"Oversimplification of Her Beauty, An"
+Oversimplification of Her Beauty
 Bring It On: Fight to the Finish
 That Awkward Moment
 Interstellar
@@ -8410,12 +8410,12 @@ Oculus
 God's Not Dead
 Cold in July
 Rio 2
-"Honest Liar, An"
+Honest Liar
 Fading Gigolo
 Transcendence
 Hatchet III
 Other Woman
-"Haunted House 2, A"
+Haunted House 2
 Mulan II
 Brick Mansions
 Locke
@@ -8499,21 +8499,21 @@ Inbetweeners 2
 Sacrament
 Sin City: A Dame to Kill For
 If I Stay
-"Two Days, One Night"
+Two Days, One Night
 Coherence
-"As Above, So Below"
+As Above, So Below
 One I Love
 Headshot
 Guest
 Pride
 Honeymoon
 The Drop
-"20,000 Days on Earth"
+20,000 Days on Earth
 The Skeleton Twins
 Beautiful Losers
 Maze Runner
 Camp X-Ray
-"Walk Among the Tombstones, A"
+Walk Among the Tombstones
 Laggies
 La cravate
 Cesar Chavez
@@ -8546,7 +8546,7 @@ Rewrite
 Nightcrawler
 Big Hero 6
 The Book of Life
-"Love, Rosie"
+Love, Rosie
 Time Lapse
 Ex Machina
 Crippled Avengers
@@ -8623,7 +8623,7 @@ Good Copy Bad Copy
 Playing It Cool
 National Lampoon's Bag Boy
 Closer to the Moon
-"Girl Walks Home Alone at Night, A"
+Girl Walks Home Alone at Night
 Dave Chappelle: For What it's Worth
 Scooby-Doo! Abracadabra-Doo
 Mommy
@@ -8632,7 +8632,7 @@ Top Five
 Bill Burr: I'm Sorry You Feel That Way
 Big Eyes
 Into the Woods
-"Men, Women & Children"
+Men, Women & Children
 The Interview
 Kingsman: The Secret Service
 Bill Burr: You People Are All the Same
@@ -8705,7 +8705,7 @@ The Blue Lagoon
 In the Name of the King III
 Cake
 Kevin Smith: Too Fat For 40
-"Snowflake, the White Gorilla"
+Snowflake, the White Gorilla
 Kenny & Company
 Delirium
 Why Man Creates
@@ -8723,7 +8723,7 @@ Solyaris
 The Pacific
 Strange Magic
 The DUFF
-"Daddy, I'm A Zombie"
+Daddy, I'm A Zombie
 The Fox and the Hound 2
 Operation 'Y' & Other Shurik's Adventures
 Project Almanac
@@ -8737,7 +8737,7 @@ A Walk in the Woods
 True Story
 Kurt Cobain: Montage of Heck
 Going Clear: Scientology and the Prison of Belief
-"What Happened, Miss Simone?"
+What Happened, Miss Simone?
 A Story of Children and Film
 Story of Film: An Odyssey
 Eden
@@ -8774,7 +8774,7 @@ The Natural Love
 The Forgotten Space
 Cloudburst
 Tom Segura: Completely Normal
-"Honey, We Shrunk Ourselves"
+Honey, We Shrunk Ourselves
 Stitch! The Movie
 Hot Tub Time Machine 2
 Johnny Express
@@ -8788,7 +8788,7 @@ Marvel One-Shot: Item 47
 The Second Best Exotic Marigold Hotel
 George Carlin: It's Bad for Ya!
 Tracers
-"McFarland, USA"
+McFarland, USA
 Unfinished Business
 Ghost in the Shell Arise - Border 1: Ghost Pain
 Run All Night
@@ -9015,7 +9015,7 @@ The Witch
 Men & Chicken
 The Escort
 Doctor Who: The Waters of Mars
-"Family Guy Presents: Something, Something, Something, Dark Side"
+Family Guy Presents: Something, Something, Something, Dark Side
 Visit
 Secret in Their Eyes
 The Electric Hotel
@@ -9076,7 +9076,7 @@ Burnt
 Ryuzo and the Seven Henchmen
 If I Were a Rich Man
 Last Shift
-"F*ck You, Goethe 2"
+F*ck You, Goethe 2
 Garam Masala
 Life Eternal
 Hotel Transylvania 2
@@ -9095,14 +9095,14 @@ Into the Grizzly Maze
 Human
 Chasuke's Journey
 L.A. Slasher
-"Hail, Caesar!"
+Hail, Caesar!
 How To Change The World
 Er ist wieder da
 Just Eat It: A Food Waste Story
 Bros Before Hos
 Slow Learners
 Unforgiven
-"Sex, Drugs & Taxation"
+Sex, Drugs & Taxation
 Sky High
 Confessions of a Dangerous Mind
 Goosebumps
@@ -9144,7 +9144,7 @@ The Adventures of Sherlock Holmes and Doctor Watson: King of Blackmailers
 The Adventures of Sherlock Holmes and Dr. Watson: Bloody Signature
 Sherlock Holmes and Dr. Watson: Acquaintance
 Doctor Who: Last Christmas
-"Doctor Who: The Doctor, the Widow and the Wardrobe"
+Doctor Who: The Doctor, the Widow and the Wardrobe
 Doctor Who: A Christmas Carol
 Doctor Who: Planet of the Dead
 Doctor Who: The Next Doctor
@@ -9386,7 +9386,7 @@ DC Super Hero Girls: Hero of the Year
 Hacksaw Ridge
 David Cross: Making America Great Again
 Over the Garden Wall
-"Wings, Legs and Tails"
+Wings, Legs and Tails
 Blair Witch
 31
 ARQ
@@ -9453,7 +9453,7 @@ A Street Cat Named Bob
 The Lego Batman Movie
 The Spirit of Christmas
 The Good Boy
-"Dana Carvey: Straight White Male, 60"
+Dana Carvey: Straight White Male, 60
 Marvel One-Shot: Agent Carter
 Kizumonogatari II: Passionate Blood
 Joe Rogan: Live
@@ -9511,7 +9511,7 @@ Cars 3
 Mini's First Time
 Planet Earth II
 The Hero
-"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press"
+Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press
 Cosmos
 Maria Bamford: Old Baby
 Robin Williams: Live on Broadway
@@ -9554,7 +9554,7 @@ The Meyerowitz Stories
 War Machine
 Tokyo Idols
 Vir Das: Abroad Understanding
-"Norm Macdonald: Hitler's Dog, Gossip & Trickery"
+Norm Macdonald: Hitler's Dog, Gossip & Trickery
 Valerian and the City of a Thousand Planets
 The Gracefield Incident
 Shadow World
@@ -9574,7 +9574,7 @@ Belladonna of Sadness
 The Putin Interviews
 Unedited Footage of a Bear
 Obsession
-"Oh, Hello: On Broadway"
+Oh, Hello: On Broadway
 Good Time
 Don Camillo in Moscow
 The House
@@ -9584,7 +9584,7 @@ Annabelle: Creation
 Gena the Crocodile
 It
 On the Trail of the Bremen Town Musicians
-"In the blue sea, in the white foam."
+In the blue sea, in the white foam.
 Wolf and Calf
 Bobik Visiting Barbos
 The Magic Ring
@@ -9616,13 +9616,13 @@ Little Boxes
 Geostorm
 Maz Jobrani: Immigrant
 Sword Art Online The Movie: Ordinal Scale
-"Three Billboards Outside Ebbing, Missouri"
+Three Billboards Outside Ebbing, Missouri
 Lady Bird
 Murder on the Orient Express
 Coco
-"The Night Is Short, Walk on Girl"
-"I, Tonya"
-"Fireworks, Should We See It from the Side or the Bottom?"
+The Night Is Short, Walk on Girl
+I, Tonya
+Fireworks, Should We See It from the Side or the Bottom?
 Adventures in Plymptoons!
 Gaga: Five Foot Two
 Dave Chappelle: Killin' Them Softly
@@ -9641,7 +9641,7 @@ Emerald Green
 Wonder Wheel
 Creep 2
 LBJ
-"Roman J. Israel, Esq."
+Roman J. Israel, Esq.
 Darkest Hour
 Star Wars: The Last Jedi
 A Bad Moms Christmas
@@ -9696,12 +9696,12 @@ First Reformed
 Fred Armisen: Standup for Drummers
 Death Wish
 A Wrinkle in Time
-"Love, Simon"
+Love, Simon
 A Quiet Place
 Alpha
 I Kill Giants
 Sherlock - A Study in Pink
-"Game Over, Man!"
+Game Over, Man!
 Blockers
 Pacific Rim: Uprising
 Rampage
