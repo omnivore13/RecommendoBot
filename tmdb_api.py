@@ -73,32 +73,47 @@ def search_id(id, key = key):
         except:
             data['director'] = None
         try:
-            screenwriter = [crew['name'] for crew in credits['crew'] if crew['job'] == 'Screenplay']
-            data['screenwriter'] = screenwriter[0]
-        except:
-            data['screenwriter'] = None
-        try:
             producer = [crew['name'] for crew in credits['crew'] if crew['job'] == 'Producer']
             data['producer'] = producer[0]
         except:
             data['producer'] = None
-        try:
-            Music = [crew['name'] for crew in credits['crew'] if crew['job'] == 'Music']
-            data['music'] = Music[0]
-        except:
-            data['music'] = None
+        
     return data
 
-fp = open('movies.pickle', 'rb')
-movies = pickle.load(fp)
+# fp = open('movies.pickle', 'rb')
+# movies = pickle.load(fp)
+# fp.close()
+
+# all_movies = {}
+# for movie in tqdm(movies):
+#     all_movies[movie] =  search(movie)
+
+
+# fp = open('all_movies.json', "w")
+# json.dump(all_movies, fp)
+# fp.close()
+
+new_movies = {}
+new_titles = []
+fp = open('movies.txt', 'r')
+for i in fp:
+    new_titles.append(i.strip())
 fp.close()
 
-all_movies = {}
-for movie in tqdm(movies):
-    all_movies[movie] =  search(movie)
 
-
-fp = open('all_movies.json', "w")
-json.dump(all_movies, fp)
+for movie in tqdm(new_titles[:3000]):
+    new_movies[movie] = search(movie)
+fp = open('movies_3k.json', 'w')
+json.dump(new_movies, fp)
+fp.close()
+for movie in tqdm(new_titles[3000:6000]):
+    new_movies[movie] = search(movie)
+fp = open('movies_6k.json', 'w')
+json.dump(new_movies, fp)
 fp.close()
 
+for movie in tqdm(new_titles[6000:]):
+    new_movies[movie] = search(movie)
+fp = open('movies_9k.json', 'w')
+json.dump(new_movies, fp)
+fp.close()
